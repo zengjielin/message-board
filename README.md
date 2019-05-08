@@ -2,9 +2,9 @@
 由vue+egg.js+mysql开发的一个留言板项目
 
 #### 相关文档
-[vue](https://cn.vuejs.org/v2/guide/)
-[egg.js](https://eggjs.org/zh-cn/intro/quickstart.html)
-[iview](https://www.iviewui.com)
+[vue中文文档](https://cn.vuejs.org/v2/guide/)  
+[egg.js中文文档](https://eggjs.org/zh-cn/intro/quickstart.html)  
+[iview中文文档](https://www.iviewui.com)  
 
 ##### 注意
 项目采用的是本地mysql,需要安装mysql v5.7.1和node.js v8.12.0
