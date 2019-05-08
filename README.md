@@ -7,7 +7,7 @@
 [iview中文文档](https://www.iviewui.com)  
 
 ##### 项目演示GIF，因为GIF有点大，加载可能不全，大家可以点击下面的链接查看原图
-[演示gif地址](https://packer-static-assets.oss-cn-shenzhen.aliyuncs.com/packer-static/a73c957a6c890b177c4e242f3c52d41f1557304147284.gif)  
+[点击我查看完整的演示GIF](https://packer-static-assets.oss-cn-shenzhen.aliyuncs.com/packer-static/a73c957a6c890b177c4e242f3c52d41f1557304147284.gif)  
 ![留言板项目演示](https://packer-static-assets.oss-cn-shenzhen.aliyuncs.com/packer-static/a73c957a6c890b177c4e242f3c52d41f1557304147284.gif)
 ##### 注意
 项目采用的是本地mysql,需要安装mysql v5.7.1和node.js v8.12.0
