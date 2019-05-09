@@ -19,7 +19,7 @@
 git clone https://github.com/zengjielin/message-board.git
 ```
 
-###### 2、运行和安装前端项目
+###### 2、运行和安装后台项目
 
 ```
 cd server-app
@@ -54,7 +54,7 @@ const userConfig = {
 };
 ```
 
-###### 4、运行和安装后台项目
+###### 4、运行和安装前端项目
 
 ```
 cd web-app
