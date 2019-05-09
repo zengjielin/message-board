@@ -10,9 +10,11 @@
 [点击我查看完整的演示GIF](https://packer-static-assets.oss-cn-shenzhen.aliyuncs.com/packer-static/a73c957a6c890b177c4e242f3c52d41f1557304147284.gif)  
 ![留言板项目演示](https://packer-static-assets.oss-cn-shenzhen.aliyuncs.com/packer-static/a73c957a6c890b177c4e242f3c52d41f1557304147284.gif)
 ##### 注意
-项目采用的是本地mysql,需要安装mysql v5.7.1和node.js v8.12.0
-从根目录打开命令行
+项目采用的是本地mysql,版本号为mysql v5.7.1和node.js v8.12.0
+[mysql v5.7.1下载页面](https://dev.mysql.com/downloads/file/?id=463242)  
+[node.js下载页面](https://nodejs.org/en/)
 
+从根目录打开命令行
 ###### 1、克隆项目到本地
 
 ```
