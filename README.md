@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-###### 3、修改server-app/config/config.default.js,更改自己的本地服务器基本信息,并在自己数据库上建表usermsg,再运行服务，否则报错
+###### 3、修改server-app/config/config.default.js,更改自己的本地服务器或者远程服务器基本信息,并在自己数据库上建表usermsg,再运行服务，否则报错
 
 ```
 const userConfig = {
