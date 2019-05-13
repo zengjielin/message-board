@@ -84,7 +84,6 @@ export default {
     async getMsgBoardList() {
       const res = await this._getMsgBoardList();
       if (res.code == 0) {
-        console.log(res.data);
         this.msgBoardList = res.data;
       } else {
         this.$Message.error(res.msg);
